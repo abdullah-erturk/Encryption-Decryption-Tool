@@ -50,7 +50,7 @@ Run the program, answer "yes" to the question about the installation of the prog
 
 The installation will be completed in a short time.
 
-Now you can use it with the "Encrypt File" options when you right-click on any file in the Windows environment and the "Remove File Encryption" options for encrypted files.
+Now you can use it with the "Encrypt File" options when you right-click on any file in the Windows environment and the "Decrypt File" options for encrypted files.
 
 ### IMPORTANT NOTES:
 
