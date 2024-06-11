@@ -1,4 +1,4 @@
-# Encryption Decryption Tool
+# Encryption / Decryption Tool
 ### Encryption / Decryption Tool
 
      Türkçe Açıklama
