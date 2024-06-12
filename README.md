@@ -11,7 +11,7 @@
 
 Bu program ile dosya şifreleme ve şifre çözme işlemlerini kolaylıkla gerçekleştirmenizi sağlar. Dosyalarınızı güvenle şifreleyebilir ve ihtiyaç duyduğunuzda şifresini çözebilirsiniz.
 
-Virutotal Raporu:
+Virustotal Raporu:
 https://www.virustotal.com/gui/file/58efe977c9cac150432b9eb7aa37fe2a75f572fe75fd261774dd696ffbf7276f/detection
 
 
