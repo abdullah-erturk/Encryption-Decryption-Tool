@@ -16,12 +16,19 @@ Program, Advanced Encryption Standard (AES) algoritmasıyla güçlü bir şekild
 
 ### KULLANIM:
 
+Programın 2 tür kullanım yöntemi vardır.
+
+#### Birinci yöntem (kurulum):
 Programı çalıştırın, konsol ekranında programın kurulumu ile ilgili gelecek soruya "evet" cevabı verin.
 
 Kurulum kısa sürede tamamlanacaktır.
 
 Artık Windows ortamında her türlü dosyanızda sağ tıkladığınızda "Dosya Şifrele" ve şifrelenmiş dosyalar için de "Dosya Şifrelemesi Kaldır" seçenekleri ile kullanabilirsiniz.
 
+#### İkinci yöntem (sürükle-bırak-şifrele/şifre çöz):
+Herhangi bir unzatıya sahip dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın, bir konsol ekranı açılacak ve şifre belirlemenizi isteyecektir.
+
+Şifrelenmiş bir dosyanın şifresini çözmek için .enc uzantılı dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın ve önceden belirlediğiniz şifreyi girin.
 
 ### ÖNEMLİ NOTLAR:
 
@@ -46,11 +53,19 @@ The program performs a strong encryption process with the Advanced Encryption St
 
 ### USAGE:
 
+There are 2 types of usage methods for the program.
+
+#### First method (installation):
 Run the program, answer "yes" to the question about the installation of the program on the console screen.
 
 The installation will be completed in a short time.
 
-Now you can use it with the "Encrypt File" options when you right-click on any file in the Windows environment and the "Decrypt File" options for encrypted files.
+Now, when you right-click on any file in the Windows environment, you can use it with the "Encrypt File" option and for encrypted files, with the "Remove File Encryption" option.
+
+#### Second method (drag-drop-encrypt/decrypt):
+Drag and drop any file with any extension onto the encrypt.exe file, a console screen will open and ask you to specify a password.
+
+To decrypt an encrypted file, drag and drop the .enc file onto the encrypt.exe file and enter the password you specified before.
 
 ### IMPORTANT NOTES:
 
