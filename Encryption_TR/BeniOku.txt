@@ -29,7 +29,7 @@ Kurulum kısa sürede tamamlanacaktır.
 Artık Windows ortamında her türlü dosyanızda sağ tıkladığınızda "Dosya Şifrele" ve şifrelenmiş dosyalar için de "Dosya Şifrelemesi Kaldır" seçenekleri ile kullanabilirsiniz.
 
 İkinci yöntem (sürükle-bırak-şifrele/şifre çöz):
-Herhangi bir unzatıya sahip dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın, bir konsol ekranı açılacak ve şifre belirlemenizi isteyecektir.
+Herhangi bir uzantıya sahip dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın, bir konsol ekranı açılacak ve şifre belirlemenizi isteyecektir.
 
 Şifrelenmiş bir dosyanın şifresini çözmek için .enc uzantılı dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın ve önceden belirlediğiniz şifreyi girin.
 
