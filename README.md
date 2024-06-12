@@ -43,6 +43,8 @@ Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istedi
 
      English Explanation
 
+This C# program allows you to easily perform file encryption and decryption operations. You can securely encrypt your files and decrypt them whenever you need.
+
 ### FEATURES:
 
 All types of files are encrypted without file extension and size restrictions.
