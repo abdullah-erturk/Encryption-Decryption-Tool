@@ -5,6 +5,10 @@
 
 Bu C# programı, dosya şifreleme ve şifre çözme işlemlerini kolaylıkla gerçekleştirmenizi sağlar. Dosyalarınızı güvenle şifreleyebilir ve ihtiyaç duyduğunuzda şifresini çözebilirsiniz.
 
+Virutotal Raporu:
+https://www.virustotal.com/gui/file/58efe977c9cac150432b9eb7aa37fe2a75f572fe75fd261774dd696ffbf7276f/detection
+
+
 ### ÖZELLİKLER:
 
 Dosya uzantı ve boyut kısıtlaması olmadan her türlü dosya şifrelenir.
@@ -44,6 +48,10 @@ Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istedi
      English Explanation
 
 This C# program allows you to easily perform file encryption and decryption operations. You can securely encrypt your files and decrypt them whenever you need.
+
+Virustotal Report:
+https://www.virustotal.com/gui/file/1db7f5f64efa3aa8e32f38a45bddcc420c7357a73c6681e5422837bfe0a93230/detection
+
 
 ### FEATURES:
 
