@@ -1,4 +1,10 @@
 # Encryption / Decryption Tool
+
+
+![sample](https://github.com/abdullah-erturk/Encryption-Decryption-Tool/blob/main/preview.gif)
+
+
+
 ### Encryption / Decryption Tool
 
      Türkçe Açıklama
