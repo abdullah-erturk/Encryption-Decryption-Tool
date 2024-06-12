@@ -10,7 +10,7 @@ https://www.virustotal.com/gui/file/1db7f5f64efa3aa8e32f38a45bddcc420c7357a73c66
 
 ### FEATURES:
 
-All types of files are encrypted without file extension and size restrictions.
+All types of files are encrypted without file extension and size restrictions. 
 
 Users can encrypt and decrypt their files with passwords they specify. 
 
