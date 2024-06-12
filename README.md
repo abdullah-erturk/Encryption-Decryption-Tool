@@ -46,7 +46,7 @@ Parolayı unutmanız durumunda şifreli dosyalarınızı bir daha açamazsınız
 
 Program, dosya uzantı ve boyut kısıtlaması olmaksızın her türlü dosyayı şifreleyebilir. Yüksek boyutlu dosyaların şifrelenme işlemi uzun sürebilir. 5 GB'lık bir dosyanın şifreleme süresi yaklaşık 30 saniyedir. Elbette bu süre bilgisayarınızın donanım gücüne göre değişecektir.
 
-Şifrelenmiş dosyaların orijinal uzantısı şifreleme esnasında korunmaktadır. Örneğin test.txt dosyasını şifrelediğinizde dosyanın yeni uzantısı .enc unzantısı ile birlitek test.txt.enc olacaktır.
+Şifrelenmiş dosyaların orijinal uzantısı şifreleme esnasında korunmaktadır. Örneğin test.txt dosyasını şifrelediğinizde dosyanın yeni uzantısı .enc unzantısı ile birlite test.txt.enc olacaktır.
 
 Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istediğiniz değişiklikleri yaparak derleyip kullanabilirsiniz.
 
