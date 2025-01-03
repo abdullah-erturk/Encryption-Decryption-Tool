@@ -82,8 +82,7 @@ Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istedi
 <details>
 This program allows you to easily perform file encryption and decryption operations. You can securely encrypt your files and decrypt them whenever you need.
 
-
-Virustotal Report:
+Virustotal Raporu:
 https://www.virustotal.com/gui/file/9af11cbd2fc5065b0d17a33353f3a5f7e0e14383b0015aec56f066c1acc61e66
 
 ### FEATURES:
