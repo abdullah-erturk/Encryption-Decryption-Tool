@@ -85,7 +85,8 @@ Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istedi
 <details>
 
 
-### ATTENTION You cannot decrypt a file you encrypted with v1 with v2. Take precautions.
+### ATTENTION A file encrypted with v1 cannot be decrypted with v2. Take your precautions.
+
 
 
 This program allows you to easily perform file encryption and decryption operations. You can securely encrypt your files and decrypt them whenever you need.
