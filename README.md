@@ -9,6 +9,8 @@
 
      Türkçe Açıklama
 
+<details>
+
 Bu program dosya şifreleme ve şifre çözme işlemlerini kolaylıkla gerçekleştirmenizi sağlar. Dosyalarınızı güvenle şifreleyebilir ve ihtiyaç duyduğunuzda şifresini çözebilirsiniz.
 
 Virustotal Raporu:
