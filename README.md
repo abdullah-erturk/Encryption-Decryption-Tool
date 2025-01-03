@@ -1,20 +1,23 @@
-# Encryption / Decryption Tool
+# Encryption / Decryption Tool v2
 
 
 ![sample](https://github.com/abdullah-erturk/Encryption-Decryption-Tool/blob/main/preview.gif)
 
 
 
-### Encryption / Decryption Tool
+### Encryption / Decryption Tool v2
 
      Türkçe Açıklama
 
 <details>
 
+### DİKKAT: v1 ile şifrelediğiniz bir dosyanın şifresini v2 ile çözemezsiniz. Önleminizi alın.
+
+
 Bu program dosya şifreleme ve şifre çözme işlemlerini kolaylıkla gerçekleştirmenizi sağlar. Dosyalarınızı güvenle şifreleyebilir ve ihtiyaç duyduğunuzda şifresini çözebilirsiniz.
 
 Virustotal Raporu:
-https://www.virustotal.com/gui/file/6815867bf32303cc9af3c6b78ea7b2bc4188104b653f9f3b27485c7e77edf2c3
+https://www.virustotal.com/gui/file/9f904a50e294b2f809e63d3947c688fbcd8a6ba1d6df8ea97233494b12649d32
 
 
 ### ÖZELLİKLER:
@@ -82,11 +85,14 @@ Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istedi
 <details>
 
 
+### ATTENTION You cannot decrypt a file you encrypted with v1 with v2. Take precautions.
+
+
 This program allows you to easily perform file encryption and decryption operations. You can securely encrypt your files and decrypt them whenever you need.
 
 
 Virustotal Report:
-https://www.virustotal.com/gui/file/9af11cbd2fc5065b0d17a33353f3a5f7e0e14383b0015aec56f066c1acc61e66
+https://www.virustotal.com/gui/file/67bd3ba614fbadc37bb33baafb577c1694d68a517913ca6156f254263cb8fdf5/details
 
 ### FEATURES:
 • AES-256 Encryption: Secure file encryption algorithm.
@@ -102,14 +108,14 @@ https://www.virustotal.com/gui/file/9af11cbd2fc5065b0d17a33353f3a5f7e0e14383b001
 ### USAGE:
 The program offers 2 methods of use.
 
-First Method (Installation):
+#### First Method (Installation):
 Run the program and respond "yes" to the installation prompt that appears in the console screen.
 
 The installation will be completed quickly.
 
 Once installed, you can easily use it in the Windows environment by right-clicking any file to access the options "Encrypt File" for encryption or "Decrypt File" for encrypted files.
 
-Second Method (Drag-and-Drop Encryption/Decryption):
+#### Second Method (Drag-and-Drop Encryption/Decryption):
 Drag and drop any file with any extension onto the encrypt.exe file. A console screen will open, prompting you to enter a password and salt value.
 
 To decrypt an encrypted file, drag and drop a .enc file onto the encrypt.exe file and enter the previously set password and salt value.
