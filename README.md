@@ -48,12 +48,19 @@ Herhangi bir uzantıya sahip dosyayı encrypt.exe dosyasının üzerine sürükl
 ### NASIL ÇALIŞIR:
 
 •	Kullanıcıdan parola ve salt bilgilerin güvenli bir şekilde girilmesi istenir.
+
 •	Parola ve salt bilgileri kullanılarak bir AES-256 anahtarı oluşturulur.
+
 •	Dosya Şifrelenir.
+
 •	Orijinal dosyanın hash değeri hesaplanır ve dosya başına eklenir.
+
 •	AES algoritması ile dosya şifrelenir.
+
 •	Initialization Vector (IV) ve orijinal dosya uzantısı gibi bilgiler şifreli dosyanın başına eklenir.
+
 •	Yeni Dosya Oluşturulur: Şifrelenmiş dosya .enc uzantısı ile kaydedilir ve orijinal dosya silinir.
+
 •	Şifreli dosya içeriğinde şifre ve salt bilgisi depolanmaz, sadece kullanıcının girdiği şifre ve salt bilgilerinin hash değeri depolanır.
 
 ### ÖNEMLİ NOTLAR:
