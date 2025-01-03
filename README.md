@@ -74,6 +74,8 @@ Program, dosya uzantı ve boyut kısıtlaması olmaksızın her türlü dosyayı
 
 Program tamamen açık kaynak kodludur. Repodan indirip Visual Studio ile istediğiniz değişiklikleri yaparak derleyip kullanabilirsiniz.
 
+</details>
+
 
      English Explanation
 
@@ -117,3 +119,6 @@ The program can encrypt all types of files without file extension and size restr
 The original extension of the encrypted files is protected during encryption. For example, when you encrypt the test.txt file, the new extension of the file will be test.txt.enc with the .enc extension.
 
 The program is completely open source. You can download it from the repo, compile it with Visual Studio and use it by making the changes you want.
+
+</details>
+
