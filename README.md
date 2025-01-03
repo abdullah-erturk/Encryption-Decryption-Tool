@@ -19,20 +19,15 @@ https://www.virustotal.com/gui/file/58efe977c9cac150432b9eb7aa37fe2a75f572fe75fd
 
 AES-256, dosya şifrelemesi için güvenli ve güçlü bir algoritmadır. Bu proje, dosyalarınızı AES-256 ile şifrelemek ve şifresini çözmek için kullanabileceğiniz bir araç sunmaktadır.
 
-Güvenli Dosya Şifreleme
-AES-256 algoritması kullanarak dosyalarınızı güvenli bir şekilde şifreler.
+Güvenli Dosya Şifreleme: AES-256 algoritması kullanarak dosyalarınızı güvenli bir şekilde şifreler.
 
-Komut Satırı Kullanımı
-Hızlı ve etkili işlem için komut satırından şifreleme ve şifre çözme işlemleri yapılabilir.
+Komut Satırı Kullanımı: Hızlı ve etkili işlem için komut satırından şifreleme ve şifre çözme işlemleri yapılabilir.
 
-Sağ Tık Menüsü Entegrasyonu
-Dosyalarınızı sağ tık menüsü aracılığıyla kolayca şifreleyebilir veya şifrelerini çözebilirsiniz.
+Sağ Tık Menüsü Entegrasyonu: Dosyalarınızı sağ tık menüsü aracılığıyla kolayca şifreleyebilir veya şifrelerini çözebilirsiniz.
 
-Kullanıcıdan Alınan Parola ve Salt Değeri
-Dosya şifrelemesi için kullanıcıdan alınan parola ve salt değeri, güvenliği artırır.
+Kullanıcıdan Alınan Parola ve Salt Değeri: Dosya şifrelemesi için kullanıcıdan alınan parola ve salt değeri, güvenliği artırır.
 
-Hata Yönetimi
-Eksik dosya, yanlış parola veya salt değeri gibi hatalar uygun şekilde yönetilir ve kullanıcıya bildirilir.
+Hata Yönetimi: Eksik dosya, yanlış parola veya salt değeri gibi hatalar uygun şekilde yönetilir ve kullanıcıya bildirilir.
 
 ### KULLANIM:
 
@@ -49,14 +44,6 @@ Artık Windows ortamında her türlü dosyanızda sağ tıkladığınızda "Dosy
 Herhangi bir uzantıya sahip dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın, bir konsol ekranı açılacak ve şifre ve salt değeri belirlemenizi isteyecektir.
 
 Şifrelenmiş bir dosyanın şifresini çözmek için .enc uzantılı dosyayı encrypt.exe dosyasının üzerine sürükleyip bırakın ve önceden belirlediğiniz şifreyi ve salt değerini girin.
-
-### ÖZELLİKLER:
-
-•	AES-256 Şifreleme: Güvenli dosya şifreleme algoritması.
-•	Komut Satırı Kullanımı: Hızlı ve etkili işlem.
-•	Sağ Tık Menüsü Entegrasyonu: Dosyaları sağ tık menüsü aracılığıyla kolayca şifreleyin ya da şifrelerini çözün.
-•	Kullanıcıdan Alınan Parola ve Salt Değeri: Güvenliği artırır.
-•	Hata Yönetimi: Eksik dosya, yanlış parola veya salt gibi durumların ele alınması.
 
 ### NASIL ÇALIŞIR:
 
