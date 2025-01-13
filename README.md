@@ -154,6 +154,8 @@ https://www.virustotal.com/gui/file/ee4e02361a710afc0defa9ac0dae3758ca3c461b293c
 
 • Error Management: Handles scenarios such as missing files, incorrect passwords, or salts.
 
+• The program is portable, a file/folder encrypted on computer x can be decrypted again on computer y.
+
 • The extension of the encrypted file is .enc.
 
 • The extension of the encrypted folder is .encx.
