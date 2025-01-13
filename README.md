@@ -233,8 +233,6 @@ These paths are:
 - `C:\Users\<Username>\Documents`
 
 The folder paths that the program allows to encrypt on the C:\ disk are:
-
-# Windows Sistem Dizinleri
 - `C:\Users\<Username>\Downloads`
 - `C:\Users\<Username>\Desktop`
 
