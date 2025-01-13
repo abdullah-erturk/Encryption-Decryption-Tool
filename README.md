@@ -106,20 +106,20 @@ C:\ diskinin ana dizininde şifreleme ve şifre çözme işlemleri yapılabilir 
 klasör ve dosyalarda program tarafından şifreleme işlemleri engellenir. 
 
 Bu yollar şunlardır:
-@"C:\Windows"
-@"C:\Windows\System32"
-@"C:\Program Files"
-@"C:\Program Files (x86)"
-@"C:\Users"
-@"C:\ProgramData"
-@"C:\$RECYCLE.BIN"
-@"C:\System Volume Information"
-@"C:\Users\<Username>\AppData"
-@"C:\Users\<Username>\Documents "
+- `C:\Windows`
+- `C:\Windows\System32`
+- `C:\Program Files`
+- `C:\Program Files (x86)`
+- `C:\Users`
+- `C:\ProgramData`
+- `C:\$RECYCLE.BIN`
+- `C:\System Volume Information`
+- `C:\Users\<Username>\AppData`
+- `C:\Users\<Username>\Documents`
 
 Program tarafından C:\ diski üzerinde şifreleme işlemine izin verilen klasör yolu da şunlardır:
-C:\Users\<Username>\Downloads
-C:\Users\<Username>\Desktop
+- `C:\Users\<Username>\Downloads`
+- `C:\Users\<Username>\Desktop`
 
 Bu dizinler dışında D:\ - E:\ - F:\ vb. diğer disklerde her türlü şifreleme işlemleri yapılabilir.
 
@@ -220,20 +220,22 @@ The purpose of this restriction is to prevent novice users from accidentally enc
 Encryption and decryption operations can be performed in the main directory of the C:\ disk, but encryption operations are prevented by the program in the folders used by the operating system and other folders and files within those folders.
 
 These paths are:
-@"C:\Windows"
-@"C:\Windows\System32"
-@"C:\Program Files"
-@"C:\Program Files (x86)"
-@"C:\Users"
-@"C:\ProgramData"
-@"C:\$RECYCLE.BIN"
-@"C:\System Volume Information"
-@"C:\Users\<Username>\AppData"
-@"C:\Users\<Username>\Documents"
+- `C:\Windows`
+- `C:\Windows\System32`
+- `C:\Program Files`
+- `C:\Program Files (x86)`
+- `C:\Users`
+- `C:\ProgramData`
+- `C:\$RECYCLE.BIN`
+- `C:\System Volume Information`
+- `C:\Users\<Username>\AppData`
+- `C:\Users\<Username>\Documents`
 
 The folder paths that the program allows to encrypt on the C:\ disk are:
-C:\Users\<Username>\Downloads
-C:\Users\<Username>\Desktop
+
+# Windows Sistem Dizinleri
+- `C:\Users\<Username>\Downloads`
+- `C:\Users\<Username>\Desktop`
 
 Encryption operations can be performed on other disks such as D:\ - E:\ - F:\ etc. in addition to these directories.
 
